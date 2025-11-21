@@ -1,1 +1,1 @@
-# Disease-Tea-leaves-Detection-using-CNN
+# Disease-Paddy-leaves-Detection-using-CNN
