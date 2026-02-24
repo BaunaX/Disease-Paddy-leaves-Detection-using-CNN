@@ -1,7 +1,0 @@
-flask
-tensorflow
-tensorflow-hub
-opencv-python
-numpy
-matplotlib
- h5py
